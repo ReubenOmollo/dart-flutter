@@ -1,10 +1,13 @@
-void main(){
-// define a string with Runes
-String runesString = "Runes in Dart: 😘🥰😫";
+// void main() {
+//   String name = "Reuben Ndolo";
 
-// Print the string
+//   print("my name is $name");
+// }
 
-print(runesString);
+void printname() {
+  print("my name is Reuben Ndolo");
+}
 
-
+void main() {
+  printname();
 }
